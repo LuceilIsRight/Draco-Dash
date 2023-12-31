@@ -1,5 +1,4 @@
 import pygame
-import cs50.h
 from sys import exit
 import random
 
